@@ -1,0 +1,30 @@
+example_index: 63	qas_id: 56de148dcffd8e1900b4b5bc	question: 41	context: 1765	features: 2
+example_index: 64	qas_id: 56de148dcffd8e1900b4b5bd	question: 41	context: 1765	features: 2
+example_index: 65	qas_id: 56de148dcffd8e1900b4b5be	question: 35	context: 1765	features: 2
+example_index: 66	qas_id: 5ad3ed26604f3c001a3ff799	question: 49	context: 1765	features: 2
+example_index: 68	qas_id: 5ad3ed26604f3c001a3ff79b	question: 45	context: 1765	features: 2
+example_index: 69	qas_id: 5ad3ed26604f3c001a3ff79c	question: 35	context: 1765	features: 2
+
+example_index: 3035	qas_id: 57264a8cdd62a815002e808f	question: 87	context: 1853	features: 2
+example_index: 3037	qas_id: 572691545951b619008f76e1	question: 151	context: 1853	features: 2
+
+example_index: 3105	qas_id: 57265e455951b619008f70bb	question: 82	context: 2820	features: 3
+example_index: 3106	qas_id: 57265e455951b619008f70bc	question: 119	context: 2820	features: 3
+example_index: 3107	qas_id: 57265e455951b619008f70bd	question: 110	context: 2820	features: 3
+example_index: 3108	qas_id: 5726975c708984140094cb1f	question: 113	context: 2820	features: 3
+example_index: 3109	qas_id: 5726975c708984140094cb20	question: 33	context: 2820	features: 3
+example_index: 3110	qas_id: 5726975c708984140094cb21	question: 78	context: 2820	features: 3
+example_index: 3111	qas_id: 5ad13b23645df0001a2d12f8	question: 89	context: 2820	features: 3
+example_index: 3112	qas_id: 5ad13b23645df0001a2d12f9	question: 94	context: 2820	features: 3
+example_index: 3113	qas_id: 5ad13b23645df0001a2d12fa	question: 145	context: 2820	features: 3
+example_index: 3114	qas_id: 5ad13b23645df0001a2d12fb	question: 85	context: 2820	features: 3
+
+example_index: 3347	qas_id: 5726c3da708984140094d0d9	question: 69	context: 4063	features: 5
+example_index: 3348	qas_id: 5726c3da708984140094d0da	question: 121	context: 4063	features: 5
+example_index: 3349	qas_id: 5726c3da708984140094d0db	question: 116	context: 4063	features: 5
+example_index: 3350	qas_id: 5726c3da708984140094d0dc	question: 101	context: 4063	features: 5
+example_index: 3351	qas_id: 5ad15c52645df0001a2d18ac	question: 42	context: 4063	features: 5
+example_index: 3352	qas_id: 5ad15c52645df0001a2d18ad	question: 64	context: 4063	features: 5
+example_index: 3353	qas_id: 5ad15c52645df0001a2d18ae	question: 85	context: 4063	features: 5
+example_index: 3354	qas_id: 5ad15c52645df0001a2d18af	question: 54	context: 4063	features: 5
+example_index: 3355	qas_id: 5ad15c52645df0001a2d18b0	question: 67	context: 4063	features: 5

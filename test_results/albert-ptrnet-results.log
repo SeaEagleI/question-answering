@@ -1,0 +1,56 @@
+# checkpoint-1000
+Batch size = 64
+Evaluation done in total 669.093094 secs (0.054522 sec per example)
+Results: {
+    "exact": 52.06771666807041,
+    "f1": 56.20312635649964,
+    "total": 11873,
+    "HasAns_exact": 10.374493927125506,
+    "HasAns_f1": 18.65717260977011,
+    "HasAns_total": 5928,
+    "NoAns_exact": 93.6417157275021,
+    "NoAns_f1": 93.6417157275021,
+    "NoAns_total": 5945,
+    "best_exact": 51.87399983155058,
+    "best_exact_thresh": 0.0,
+    "best_f1": 56.00940951998037,
+    "best_f1_thresh": 0.0
+}
+
+# checkpoint-2000
+Batch size = 64
+Evaluation done in total 681.802962 secs (0.055558 sec per example)
+Results: {
+    "exact": 44.56329487071507,
+    "f1": 50.27386387415764,
+    "total": 11873,
+    "HasAns_exact": 11.18421052631579,
+    "HasAns_f1": 22.621724996267275,
+    "HasAns_total": 5928,
+    "NoAns_exact": 77.84693019343986,
+    "NoAns_f1": 77.84693019343986,
+    "NoAns_total": 5945,
+    "best_exact": 50.07159100480081,
+    "best_exact_thresh": 0.0,
+    "best_f1": 50.324072031861355,
+    "best_f1_thresh": 0.0
+}
+
+# checkpoint-3000
+Batch size = 64
+Evaluation done in total 713.523771 secs (0.058142 sec per example)
+Results: {
+    "exact": 51.419186389286615,
+    "f1": 55.599767416327126,
+    "total": 11873,
+    "HasAns_exact": 7.995951417004049,
+    "HasAns_f1": 16.369102316809816,
+    "HasAns_total": 5928,
+    "NoAns_exact": 94.71825063078217,
+    "NoAns_f1": 94.71825063078217,
+    "NoAns_total": 5945,
+    "best_exact": 51.46972121620483,
+    "best_exact_thresh": 0.0,
+    "best_f1": 55.54333685960234,
+    "best_f1_thresh": 0.0
+}

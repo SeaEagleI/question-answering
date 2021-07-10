@@ -1,0 +1,20 @@
+# IDE & compile files
+/.idea/
+__pycache__/
+
+# dataset files
+/squad_v2/*set/
+/squad_v2/*.json
+/newsqa_v1/*.json
+features_*
+logits_*
+
+# model checkpoints
+albert-xxlarge-v2/
+roberta-large/
+
+# launcher files
+*.cmd
+
+
+

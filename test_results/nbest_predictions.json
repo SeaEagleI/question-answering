@@ -1,0 +1,130 @@
+{
+    "0": [
+        {
+            "text": "people who give services \"for remuneration\",",
+            "probability": 0.928289653744965,
+            "start_logit": 6.147449016571045,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "people who give services \"for remuneration\", especially commercial or professional activity.",
+            "probability": 0.04480361541367139,
+            "start_logit": 6.147449016571045,
+            "end_logit": 3.1338930130004883
+        },
+        {
+            "text": "to people who give services \"for remuneration\",",
+            "probability": 0.010894185411185696,
+            "start_logit": 1.7023344039916992,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "\"for remuneration\",",
+            "probability": 0.004378901203871619,
+            "start_logit": 0.7909030318260193,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "give services \"for remuneration\",",
+            "probability": 0.003327051034928869,
+            "start_logit": 0.5161915421485901,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "people",
+            "probability": 0.0017742070587738218,
+            "start_logit": 6.147449016571045,
+            "end_logit": -0.09504222869873047
+        },
+        {
+            "text": "applies to people who give services \"for remuneration\",",
+            "probability": 0.0014494553610693243,
+            "start_logit": -0.3147069215774536,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "people who give services",
+            "probability": 0.0013123280152341425,
+            "start_logit": 6.147449016571045,
+            "end_logit": -0.3965931534767151
+        },
+        {
+            "text": "who give services \"for remuneration\",",
+            "probability": 0.0009247073239839513,
+            "start_logit": -0.7641727924346924,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "people who give services \"for remuneration\", especially commercial or professional",
+            "probability": 0.0006873653610505737,
+            "start_logit": 6.147449016571045,
+            "end_logit": -1.0432851314544678
+        },
+        {
+            "text": "to people who give services \"for remuneration\", especially commercial or professional activity.",
+            "probability": 0.0005258045174142294,
+            "start_logit": 1.7023344039916992,
+            "end_logit": 3.1338930130004883
+        },
+        {
+            "text": "German health clinic",
+            "probability": 0.0002541627488166959,
+            "start_logit": 2.319409132003784,
+            "end_logit": 1.7898635864257812
+        },
+        {
+            "text": "people who give services \"for",
+            "probability": 0.00022372076568354376,
+            "start_logit": 6.147449016571045,
+            "end_logit": -2.165752410888672
+        },
+        {
+            "text": "\"for remuneration\", especially commercial or professional activity.",
+            "probability": 0.00021134632351146225,
+            "start_logit": 0.7909030318260193,
+            "end_logit": 3.1338930130004883
+        },
+        {
+            "text": "The \"freedom to provide services\" under TFEU article 56 applies to people who give services \"for remuneration\",",
+            "probability": 0.0001735651029865371,
+            "start_logit": -2.4370973110198975,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "services \"for remuneration\",",
+            "probability": 0.00016346491130097294,
+            "start_logit": -2.49705171585083,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "the German health clinic",
+            "probability": 0.00016272799865466454,
+            "start_logit": 1.8735144138336182,
+            "end_logit": 1.7898635864257812
+        },
+        {
+            "text": "give services \"for remuneration\", especially commercial or professional activity.",
+            "probability": 0.00016057909773016136,
+            "start_logit": 0.5161915421485901,
+            "end_logit": 3.1338930130004883
+        },
+        {
+            "text": "remuneration\",",
+            "probability": 0.00015085653098672995,
+            "start_logit": -2.5773208141326904,
+            "end_logit": 6.164947986602783
+        },
+        {
+            "text": "people who give services \"for remuneration\", especially commercial",
+            "probability": 0.00013201275409728257,
+            "start_logit": 6.147449016571045,
+            "end_logit": -2.6932525634765625
+        },
+        {
+            "text": "",
+            "probability": 2.8932008336926675e-07,
+            "start_logit": -1.3246150016784668,
+            "end_logit": -1.3443087339401245
+        }
+    ]
+}

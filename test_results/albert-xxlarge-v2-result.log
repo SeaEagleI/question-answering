@@ -1,0 +1,20 @@
+model_name: albert-xxlarge-v2,
+task: fine-tune on SQuAD2.0,
+
+n_gpu: 3,
+batch_size_per_gpu: 2,
+steps_per_epoch: 22033,
+finished_epochs: 2,
+learning_rate: 3e-5,
+# null_score_diff_threshold = 0 (default)
+    exact: 85.34490019371684,
+# null_score_diff_threshold = -5 (refined)
+    exact: 86.01869788595974,
+
+n_gpu: 1,
+batch_size_per_gpu: 2,
+steps_per_epoch: 66099,
+finished_epochs: 2,
+learning_rate: 1e-5,
+# null_score_diff_threshold = 0 (default)
+    exact: 86.1366,              ## best_step_id: 130000/132198
